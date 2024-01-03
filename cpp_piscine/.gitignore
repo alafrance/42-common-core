@@ -1,0 +1,12 @@
+*.o
+bin
+.vscode
+*/bin
+*/*.o
+*/*/*/*.o
+*/*/*/*/*.o
+.DS_Store
+.idea
+.idea/*
+*/.idea/*
+**/.idea

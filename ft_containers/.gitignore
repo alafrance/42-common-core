@@ -1,0 +1,6 @@
+.idea
+cmake-build-debug
+Testing
+build
+bin
+ft_containers

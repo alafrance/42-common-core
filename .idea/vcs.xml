@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/apres-piscine" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cpp_piscine" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cube3d" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exam-42" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ft_containers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ft_containers_test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ft_printf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ft_server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ft_services" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/get_next_line" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/libasm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/libft" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/minishell" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/philosophers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/piscine_101_lafrance" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/piscine_42_lyon" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/push_swap" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/webserv" vcs="Git" />
+  </component>
+</project>

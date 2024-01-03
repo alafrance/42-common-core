@@ -1,0 +1,23 @@
+server {
+	listen 443 ssl;
+	listen [::]:443 ssl;
+	include snippets/self-signed.conf;
+    include snippets/ssl-params.conf;
+	root /var/www/html;
+	autoindex on;
+    server_name localhost;
+    location / {
+    	try_files $uri $uri/ =404;
+    }
+    location ~ \.php$ {
+    	include snippets/fastcgi-php.conf;
+        fastcgi_pass unix:/var/run/php/php7.3-fpm.sock;
+    }
+}
+
+server {
+	listen 80;
+	listen [::]:80;
+	server_name localhost;
+	return 302 https://$server_name$request_uri;
+}

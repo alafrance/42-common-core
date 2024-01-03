@@ -1,0 +1,12 @@
+.idea
+a.out
+cub3d
+*.o
+*.a
+*.dylib
+.DS_Store
+.vs_code
+.vscode
+*.swiftsourceinfo
+*.swiftdoc
+*.swiftmodule
